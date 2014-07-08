@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 This directory stores Stanford's theming files for its edX instance.
@@ -24,3 +25,7 @@ See [LICENSE.txt](LICENSE.txt) for more info.  The copyright for the Stanford
 brands and assets (e.g. logo and images) are held by Stanford
 University.
 
+=======
+I9raThemeYouthdecides
+=====================
+>>>>>>> a2a001dfe4309dd9fdbf04ba6fb004df03c58345
